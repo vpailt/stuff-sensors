@@ -21,7 +21,7 @@ Projet réaliser par Valentin Pitel, sur les bases du projet [stuff-sensor](http
    - npm install
    - npm install D3
    - npm install axios
-   - npm start
+   - npm start
    
 • Fonctionalité effectuée :
   - Affichage des historiques en fonction d'un sensor et de 2 dates données (Jour, Mois, Année, Heure, Minute) en utilisant l'api généré par [Swagger](http://editor.swagger.io/#!/)
