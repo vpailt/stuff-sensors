@@ -1,5 +1,24 @@
-.Sensor {
+.Sensor td, th{
 
+  font-family: sans-serif;
+  border: thin solid #6495ed;
+  width: 50%;
+  padding: 5px;
+  text-align: center;
+  background-color: #ffffff;
+
+}
+.Sensor table
+{
+  border-collapse: collapse;
+}
+
+.Sensor label
+{
+  text-align: left;
+  display: block;
+  float: left;
+  width: 150px;
 }
 
 .badge {

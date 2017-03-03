@@ -6,7 +6,7 @@ const liStyle = {
 }
 const SensorItem = ({id, name}) => (
   <li style={liStyle}>
-    <AppNavLink  to={`/livefeed/${id}`}>{name}</AppNavLink>
+    <AppNavLink  to={`/liveSensor/${id}`}>{name}</AppNavLink>
   </li>
 )
 export default SensorItem
