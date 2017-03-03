@@ -1,5 +1,5 @@
 # TP IDOD
-Projet réaliser par Valentin Pitel, sur les bases du projet [stuff-sensor](https://github.com/pigne/stuff-sensors) réalisé par M.Pigne.
+Projet réalisé par Valentin Pitel, sur les bases du projet [stuff-sensor](https://github.com/pigne/stuff-sensors) réalisé par M.Pigne.
 
 # Prérequis :
 • Télécharger le projet [random-sensors](https://github.com/pigne/random-sensors) qui permet de génèrerer des sensors aléatoires. 
