@@ -11,7 +11,7 @@ const LiveSensors = ( {children} ) => (
       <SensorsList className="SensorsList"/>
       {children}
     </div>
-    <footer className="footer">footer</footer>
+    <footer className="footer">Valentin Pitel - <a href="https://github.com/vpailt/stuff-sensors">Git Hub TP Sensor</a></footer>
   </div>
 )
 

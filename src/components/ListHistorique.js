@@ -7,7 +7,6 @@ import { connect } from 'react-redux'
 
 import HistoriqueSensorItem from './HistoriqueSensorItem'
 
-//import './SensorsList.css'
 
 const ListHistorique = ({sensors}) => {
     let listOf = sensors.map( (sensor) => {
