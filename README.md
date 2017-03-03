@@ -3,18 +3,18 @@ Projet réaliser par Valentin Pitel, sur les bases du projet [stuff-sensor](http
 
 • Prérequis :
   • Télécharger le projet [random-sensors](https://github.com/pigne/random-sensors) qui permet de génèrerer des sensors aléatoires. 
-    • Lancer en utilisant docker avec docker-compose up
-    • brocker : ws://localhost:8080
-    
-  • Utiliser le projet suivant [sensor-to-db](https://github.com/pigne/sensors-to-db) pour enregistrer les données dans mongodb(nécessaire pour l'affichage des historiques)
-     • npm install
-     • npm start
+    - Lancer en utilisant docker avec docker-compose up
+    - brocker : ws://localhost:8080
+  
+  • Utiliser le projet suivant [sensor-to-db](https://github.com/pigne/sensors-to-db) pour enregistrer les données dans mongodb(nécessaire pour l'affichage des historiques)
+    - npm install
+    - npm start
      
   • Télécharger [le serveur de l'api](https://github.com/vpailt/nodejs-server-server) créée pour les historiques.
-     • Utilisation du port 8010 
-     • npm install 
-     • npm install mongoose 
-     • npm start
+    - Utilisation du port 8010 
+    - npm install 
+    - npm install mongoose 
+    - npm start
 
 # Le projet Stuff-sensor 
 • Installation:
