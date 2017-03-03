@@ -11,12 +11,12 @@ Projet réaliser par Valentin Pitel, sur les bases du projet [stuff-sensor](http
      • npm start
      
   • Télécharger [le serveur de l'api](https://github.com/vpailt/nodejs-server-server) créée pour les historiques.
-  <code>
-     • npm install
-     • npm install mongoose
-     • npm start
-     utilisation du port 8010
- </code>
+<code>
+npm install
+npm install mongoose
+npm start
+utilisation du port 8010
+</code>
 # Le projet Stuff-sensor 
 • Installation:
     • npm install
