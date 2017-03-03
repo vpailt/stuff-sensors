@@ -14,11 +14,11 @@ npm start
 • Télécharger [le serveur de l'api](https://github.com/vpailt/nodejs-server-server) créée pour les historiques.
   - Utilisation du port 8010
   - Installation :
-  ```
-  npm install
-  npm install mongoose
-  npm start
-  ```
+```
+npm install
+npm install mongoose
+npm start
+```
 
 # Le projet Stuff-sensor 
 • Installation: 
